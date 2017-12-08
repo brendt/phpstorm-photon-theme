@@ -4,27 +4,22 @@
     <property name="created">2017-09-12T12:04:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-15T08:55:42</property>
+    <property name="modified">2017-12-08T14:52:43</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <colors>
-    <option name="CARET_COLOR" value="555555" />
+    <option name="CARET_COLOR" value="888888" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="33333b" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
     <option name="GUTTER_BACKGROUND" value="dddddd" />
     <option name="INDENT_GUIDE" value="" />
     <option name="INFORMATION_HINT" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="333333" />
+    <option name="LINE_NUMBERS_COLOR" value="555555" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="QUESTION_HINT" value="" />
@@ -76,6 +71,71 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value />
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="333333" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="66baff" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eb0000" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9e9ea0" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="66c358" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="39bd39" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff00ba" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7d9496" />
+      </value>
+    </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE">
+      <value>
+        <option name="BACKGROUND" value="e5fafc" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eb0000" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cdcd00" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="c000" />
@@ -114,24 +174,16 @@
       <value />
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
@@ -147,9 +199,7 @@
       <value />
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
@@ -159,7 +209,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="a200ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -195,9 +244,7 @@
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value />
@@ -241,7 +288,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="84ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -262,7 +308,9 @@
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5fe7" />
+      </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
@@ -286,7 +334,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="217a" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -297,7 +345,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="888888" />
+        <option name="FOREGROUND" value="3db1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -344,7 +392,6 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="c000" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -394,7 +441,25 @@
         <option name="FOREGROUND" value="ff00e0" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="8c00" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a200ff" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff00e0" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="a200ff" />
@@ -403,6 +468,11 @@
     <option name="JSON.STRING">
       <value>
         <option name="FOREGROUND" value="c000" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="888888" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -424,10 +494,27 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
     </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eb0000" />
+      </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="8e00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="BACKGROUND" value="f5f5f5" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="BACKGROUND" value="e5e5e5" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
@@ -470,7 +557,6 @@
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="217a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -507,7 +593,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="888888" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="fdfdfd" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
