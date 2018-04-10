@@ -32,6 +32,10 @@ This theme is based on the amazing new color scheme of Firefox Dev Tools. More c
 - <img width="15" src="https://color.stitcher.io/4b0076"/> `4B0076`
 - <img width="15" src="https://color.stitcher.io/2a0041"/> `2A0041`
 
+### Yellow
+
+- <img width="15" src="https://color.stitcher.io/F2CA00"/> `#F2CA00`
+
 ### Green
 - <img width="15" src="https://color.stitcher.io/00eb00"/> `00EB00`
 - <img width="15" src="https://color.stitcher.io/00c000"/> `00C000`
