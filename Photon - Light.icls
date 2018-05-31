@@ -1,19 +1,22 @@
 <scheme name="Photon - Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-09-12T12:04:21</property>
+    <property name="created">2018-05-31T10:06:38</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-12-08T14:52:43</property>
-    <property name="originalScheme">_@user_Default</property>
+    <property name="ideVersion">2018.1.4.0.0</property>
+    <property name="modified">2018-05-31T10:06:41</property>
+    <property name="originalScheme">Photon - Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+  <option name="LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_NAME" value="Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="CARET_COLOR" value="888888" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="33333b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="" />
     <option name="GUTTER_BACKGROUND" value="dddddd" />
@@ -57,7 +60,9 @@
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="e6f3ff" />
+      </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value />
@@ -593,7 +598,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="888888" />
-        <option name="BACKGROUND" value="fdfdfd" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
