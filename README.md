@@ -6,7 +6,7 @@ This theme is based on the amazing new color scheme of Firefox Dev Tools. More c
 
 ## Preview
 
-![Preview](./preview.png)
+![Preview](./preview.png?1)
 
 ## Color scheme
 
